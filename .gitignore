@@ -3,3 +3,4 @@
 *.pkl
 *.ini
 *.ipynb_checkpoints
+*.csv
