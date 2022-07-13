@@ -1,0 +1,308 @@
+You used the item 'Death Rattle' and did 17 extra Dark damage.  
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 21 **(WEAK!)** | 11 | 77 |
+
+
+> You are currently level 63 (99/314).
+
+ > The boss has **2390** health remaining!
+
+ > Your Death Rattle has 4 uses remaining.
+
+ > You are currently **Rank SSS**! ^(64309 pts) 
+-----
+You attacked without a weapon! 
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 3 | 2 | 59 |
+
+
+> You are currently level 55 (242/274).
+
+ > The boss has **1776** health remaining!
+
+ > You are currently **Rank A**! ^(1970 pts) 
+-----
+You used the item 'Invisible Helmet' and did 14 extra Chaos damage.  
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 28 **(CRIT!)** **(WEAK!)** | 13 | 63 |
+
+
+> You are currently level 55 (222/274).
+
+ > The boss has **3961** health remaining!
+
+ > Your Invisible Helmet has 16 uses remaining.
+
+ > You are currently **Rank A**! ^(1880 pts) 
+-----
+Unfortunately I couldn't find the item you specified or it had recently broken. Use !profile to view your inventory. 
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 10 **(CRIT!)** | 6 | 20 |
+
+
+> You are currently level 18 (64/65).
+
+ > The boss has **3271** health remaining!
+
+ > You are currently **Rank A**! ^(3009 pts) 
+-----
+You attacked without a weapon! 
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 2 | 2 **(Level up!)** | 9 |
+
+
+> You are currently level 2 (0/33).
+
+ > The boss has **1872** health remaining!
+
+ > You are currently **Rank C**! ^(246 pts)
+
+---
+
+^(Welcome to KOTD! Dont forget to join your race in boss raids! https://discord.gg/KOTD) 
+-----
+You used the item 'Bi-sickle' and did 2 extra Curse damage.  
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 5 **(RESIST!)** | 4 | 32 |
+
+
+> You are currently level 35 (176/200).
+
+ > The boss has **1001** health remaining!
+
+ > Your Bi-sickle has 12 uses remaining.
+
+ > You are currently **Rank S**! ^(15966 pts) 
+-----
+You used the item 'Chewie's Boom Stick' and did 17 extra Order damage.  
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 30 **(CRIT!)** **(KILL!)** **(WEAK!)** | 14 | 188 |
+
+
+ &#x200B;
+
+
+| **Kill Rewards** | 
+|:--:|
+| 230 Gold |
+| 7 XP |
+| (ID: 7) Broad Sword |
+
+> You are currently level 111 (161/283).
+
+ > The boss has **-21** health remaining!
+
+ > Your Chewie's Boom Stick has 4 uses remaining.
+
+ > You are currently **Rank SS**! ^(53111 pts) 
+-----
+You used the item 'Pike' and did 8 extra Havoc damage.  
+
+
+| Damage | XP | Gold | 
+|:--:|:--:|:--:| 
+| 13 | 8 | 163 |
+
+
+> You are currently level 100 (272/286).
+
+ > The boss has **2539** health remaining!
+
+ > Your Pike has 26 uses remaining.
+
+ > You are currently **Rank SS**! ^(39674 pts) 
+-----
+Unequipped weapon! 
+-----
+Equipped weapon Three-Handed Sword! 
+-----
+You are trying to attack too quickly! Try again in 60 minutes. 
+-----
+Sorry, this boss is already dead. 
+-----
+#Purple_Hoovaloo
+
+Your balance is:
+
+ > 426573 gold
+
+Your inventory contains: 
+
+
+| ID | Name | Damage | Durability | Type | Element |
+:-:|:-:|:-:|:-:|:-:|:-:|
+| 4 | Rat on a Stick | 1 | 10 | Weapon | Curse |
+| 4 | Rat on a Stick | 1 | 10 | Weapon | Curse |
+| 6 | Sneaky Bastard Sword | 2 | 13 | Weapon | Dark |
+| 6 | Sneaky Bastard Sword | 2 | 13 | Weapon | Dark |
+| 9 | Cheese Grater of Peace | 3 | 16 | Weapon | Lawful |
+| 9 | Cheese Grater of Peace | 3 | 16 | Weapon | Lawful |
+| 11 | Gentleman’s Club | 3 | 16 | Weapon | Order |
+| 12 | Huge Rock | 3 | 16 | Weapon | Havoc |
+| 12 | Huge Rock | 3 | 16 | Weapon | Havoc |
+| 13 | Rapier of Unfairness | 3 | 16 | Weapon | Curse |
+| 15 | Bow with Ribbons | 4 | 19 | Weapon | Bless |
+| 15 | Bow with Ribbons | 4 | 19 | Weapon | Bless |
+| 15 | Bow with Ribbons | 4 | 19 | Weapon | Bless |
+| 20 | Staff of Napalm | 5 | 14 | Weapon | Almighty |
+| 20 | Staff of Napalm | 5 | 21 | Weapon | Almighty |
+| 20 | Staff of Napalm | 5 | 21 | Weapon | Almighty |
+| 20 | Staff of Napalm | 5 | 21 | Weapon | Almighty |
+| 20 | Staff of Napalm | 5 | 21 | Weapon | Almighty |
+| 20 | Staff of Napalm | 5 | 21 | Weapon | Almighty |
+| 21 | Holy Rollers | 6 | 14 | Weapon | Bless |
+| 21 | Holy Rollers | 6 | 25 | Weapon | Bless |
+| 21 | Holy Rollers | 6 | 25 | Weapon | Bless |
+| 21 | Holy Rollers | 6 | 25 | Weapon | Bless |
+| 21 | Holy Rollers | 6 | 25 | Weapon | Bless |
+| 21 | Holy Rollers | 6 | 25 | Weapon | Bless |
+| 22 | Human Shield | 6 | 20 | Weapon | Curse |
+| 22 | Human Shield | 6 | 24 | Weapon | Curse |
+| 22 | Human Shield | 6 | 24 | Weapon | Curse |
+| 23 | Invisible Helmet | 6 | 22 | Weapon | Chaos |
+| 23 | Invisible Helmet | 6 | 25 | Weapon | Chaos |
+| 23 | Invisible Helmet | 6 | 25 | Weapon | Chaos |
+| 23 | Invisible Helmet | 6 | 25 | Weapon | Chaos |
+| 24 | Bear Feet | 6 | 20 | Weapon | Sinful |
+| 24 | Bear Feet | 6 | 25 | Weapon | Sinful |
+| 24 | Bear Feet | 6 | 25 | Weapon | Sinful |
+| 24 | Bear Feet | 6 | 25 | Weapon | Sinful |
+| 24 | Bear Feet | 6 | 25 | Weapon | Sinful |
+| 25 | Really Impressive Title | 7 | 17 | Weapon | Order |
+| 25 | Really Impressive Title | 7 | 28 | Weapon | Order |
+| 25 | Really Impressive Title | 7 | 28 | Weapon | Order |
+| 25 | Really Impressive Title | 7 | 28 | Weapon | Order |
+| 25 | Really Impressive Title | 7 | 28 | Weapon | Order |
+| 26 | Death Rattle | 7 | 2 | Weapon | Dark |
+| 26 | Death Rattle | 7 | 28 | Weapon | Dark |
+| 26 | Death Rattle | 7 | 28 | Weapon | Dark |
+| 26 | Death Rattle | 7 | 28 | Weapon | Dark |
+| 27 | Bow of Grossly Unbalanced Combat | 7 | 3 | Weapon | Havoc |
+| 27 | Bow of Grossly Unbalanced Combat | 7 | 28 | Weapon | Havoc |
+| 27 | Bow of Grossly Unbalanced Combat | 7 | 28 | Weapon | Havoc |
+| 27 | Bow of Grossly Unbalanced Combat | 7 | 28 | Weapon | Havoc |
+| 27 | Bow of Grossly Unbalanced Combat | 7 | 28 | Weapon | Havoc |
+| 28 | Fire Arms | 7 | 11 | Weapon | Light |
+| 28 | Fire Arms | 7 | 28 | Weapon | Light |
+| 28 | Fire Arms | 7 | 28 | Weapon | Light |
+| 28 | Fire Arms | 7 | 28 | Weapon | Light |
+| 30 | Redwood Staff | 9 | 12 | Weapon | Lawful |
+| 30 | Redwood Staff | 9 | 34 | Weapon | Lawful |
+| 30 | Redwood Staff | 9 | 34 | Weapon | Lawful |
+| 30 | Redwood Staff | 9 | 34 | Weapon | Lawful |
+| 30 | Redwood Staff | 9 | 34 | Weapon | Lawful |
+| 31 | Sledgehammer of Smackdown | 9 | 10 | Weapon | Havoc |
+| 31 | Sledgehammer of Smackdown | 9 | 34 | Weapon | Havoc |
+| 31 | Sledgehammer of Smackdown | 9 | 34 | Weapon | Havoc |
+| 31 | Sledgehammer of Smackdown | 9 | 34 | Weapon | Havoc |
+| 31 | Sledgehammer of Smackdown | 9 | 34 | Weapon | Havoc |
+| 31 | Sledgehammer of Smackdown | 9 | 34 | Weapon | Havoc |
+| 32 | Three-Handed Sword | 10 | 28 | Weapon | Almighty |
+| 32 | Three-Handed Sword | 10 | 37 | Weapon | Almighty |
+| 32 | Three-Handed Sword | 10 | 37 | Weapon | Almighty |
+| 32 | Three-Handed Sword | 10 | 37 | Weapon | Almighty |
+| 32 | Three-Handed Sword | 10 | 37 | Weapon | Almighty |
+| 100 | Teleport Stone | 1 | ARCHIVED | Legendary | Magic |
+| 122 | Used Jock Strap | 1 | 4 | Weapon | Light |
+| 122 | Used Jock Strap | 1 | 5 | Weapon | Light |
+| 122 | Used Jock Strap | 1 | 5 | Weapon | Light |
+| 123 | Dirty Prom Sign | 1 | 5 | Weapon | Order |
+| 123 | Dirty Prom Sign | 1 | 5 | Weapon | Order |
+| 124 | Chemistry Textbook | 3 | 8 | Weapon | Almighty |
+| 124 | Chemistry Textbook | 3 | 8 | Weapon | Almighty |
+| 125 | Kick Me Sign | 3 | 8 | Weapon | Bless |
+| 125 | Kick Me Sign | 3 | 8 | Weapon | Bless |
+| 131 | Orc sized varsity jacket | 6 | 25 | Weapon | Havoc |
+| 1048 | EmberKitty's Claws | 15 | ARCHIVED | Legendary | Sinful |
+| 1048 | EmberKitty's Claws | 15 | ARCHIVED | Legendary | Sinful |
+| 1051 | Attack Moon | 5 | 39 | Legendary | Chaos |
+| 1051 | Attack Moon | 5 | 40 | Legendary | Chaos |
+| 1071 | Decorative Tree Topper(Christmas 2021) | 12 | ARCHIVED | Legendary | Order |
+| 1071 | Decorative Tree Topper(Christmas 2021) | 12 | ARCHIVED | Legendary | Order |
+| 1072 | Explosive Ornaments (Christmas 2021) | 12 | ARCHIVED | Legendary | Chaos |
+| 1074 | New Year's Champagne Flute (New Year 2022) | 12 | ARCHIVED | Legendary | Bless |
+| 1077 | Heart Shaped String Lights | 7 | 5 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 9 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 10 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 10 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 10 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 10 | weapon | Light |
+| 1080 | Cupid's Bow | 10 | 10 | weapon | Light |
+| 1081 | Aphrodite's Blessing (Valentine's Day 2022) | 10 | 4 | Weapon | Bless |
+| 1082 | Lucky 4 Leaf Clover | 13 | 8 | Legendary | Light |
+| 1082 | Lucky 4 Leaf Clover | 13 | 8 | Legendary | Light |
+| 1082 | Lucky 4 Leaf Clover | 13 | 9 | Legendary | Light |
+| 1082 | Lucky 4 Leaf Clover | 13 | 11 | Legendary | Light |
+| 1082 | Lucky 4 Leaf Clover | 13 | 13 | Legendary | Light |
+| 1082 | Lucky 4 Leaf Clover | 13 | 13 | Legendary | Light |
+| 1084 | Unicorn Marshmallow | 12 | 2 | Weapon | Lawful |
+| 1084 | Unicorn Marshmallow | 12 | 3 | Weapon | Lawful |
+| 1084 | Unicorn Marshmallow | 12 | 8 | Weapon | Lawful |
+| 1084 | Unicorn Marshmallow | 12 | 10 | Weapon | Lawful |
+| 1084 | Unicorn Marshmallow | 12 | 10 | Weapon | Lawful |
+| 1084 | Unicorn Marshmallow | 12 | 10 | Weapon | Lawful |
+| 1086 | Leprechaun Hat Marshmallow | 12 | 5 | Weapon | Sinful |
+| 1086 | Leprechaun Hat Marshmallow | 12 | 6 | Weapon | Sinful |
+| 1086 | Leprechaun Hat Marshmallow | 12 | 6 | Weapon | Sinful |
+| 1086 | Leprechaun Hat Marshmallow | 12 | 7 | Weapon | Sinful |
+| 1086 | Leprechaun Hat Marshmallow | 12 | 8 | Weapon | Sinful |
+| 1087 | Horseshoe Marshmallow | 9 | 15 | Weapon | Curse |
+| 1087 | Horseshoe Marshmallow | 9 | 15 | Weapon | Curse |
+| 1087 | Horseshoe Marshmallow | 9 | 16 | Weapon | Curse |
+| 1087 | Horseshoe Marshmallow | 9 | 16 | Weapon | Curse |
+| 1087 | Horseshoe Marshmallow | 9 | 16 | Weapon | Curse |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1092 | Teachers Quizlet | 9 | 20 | Legendary | Sinful |
+| 1095 | Reverse Captioning Weapon | 1 | 1 | Legendary | Havoc |
+| 5093 | Princess Leias Bikini | 4 | 12 | Legendary | Sinful |
+| 5094 | That one lightsaber that just wont die | 5 | 14 | Legendary | Light |
+| 5095 | I find your lack of faith disturbing | 6 | 10 | Legendary | Dark |
+| 5096 | Mauls Bottom Half | 6 | 12 | Legendary | Curse |
+| 5097 | Queen Amidalas Make-up Artist | 9 | 8 | Legendary | Almighty |
+| 5098 | Its Purple Windu! | 5 | 11 | Legendary | Lawful |
+| 5099 | Beep Boop Beep | 7 | 7 | Legendary | Bless |
+| 5100 | Unlimited Powaaahhhh | 8 | 11 | Legendary | Chaos |
+| 5101 | Binks' Propensity for Not Helping | 10 | 5 | Legendary | Havoc |
+| 5102 | Chewie's Boom Stick | 9 | 6 | Legendary | Order |
+| 5104 | I bonked with a bot for a month and all I got was this lousy weapon | 5 | 1 | Legendary | Havoc |
+
+
+ Your stats are: 
+
+> Total Gold Acquired: 888103
+
+> Total Damage Dealt: 70220
+
+> Total XP Acquired: 41189 
+
+
+
+---
+
+ ^(Use items by typing !attack <item id>) 
