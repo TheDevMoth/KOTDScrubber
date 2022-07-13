@@ -1,5 +1,5 @@
-.png
-.7z
-.pkl
-.ini
-.ipynb_checkpoints
+*.png
+*.7z
+*.pkl
+*.ini
+*.ipynb_checkpoints
